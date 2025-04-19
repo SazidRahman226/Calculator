@@ -38,6 +38,9 @@ Supports basic arithmetic operations, including addition, ubtraction, multiplica
 
 🖥️ How to Run
 
-1. Download the Release folder(Calulator\bin\Release).
-2. Go to "net9.0-windows" folder.
-3. Run Calculator.exe
+1. Clone the repository.
+  ```sh
+  https://github.com/SazidRahman226/Calculator
+  ```
+2. Run Calculator.exe.
+   
