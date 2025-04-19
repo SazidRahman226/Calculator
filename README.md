@@ -3,9 +3,11 @@
 A simple calculator built using C#, WinForms, and .NET Framework 4.8.  
 Supports basic arithmetic operations, including addition, ubtraction, multiplication, division, and can handle decimal inputs
 
-<img src="images/calculator-preview1.png" width="300"/>
-<img src="images/calculator-preview2.png" width="300"/>
-<img src="images/calculator-preview3.png" width="300"/>
+![preview1](https://github.com/SazidRahman226/Calculator/blob/afbaf6229e28f561a90035ecfad7724368bc549d/Calculator/images/calculator-preview1.png)
+
+![preview1](https://github.com/SazidRahman226/Calculator/blob/afbaf6229e28f561a90035ecfad7724368bc549d/Calculator/images/calculator-preview2.png)
+
+![preview1](https://github.com/SazidRahman226/Calculator/blob/afbaf6229e28f561a90035ecfad7724368bc549d/Calculator/images/calculator-preview3.png)
 
 ---
 
