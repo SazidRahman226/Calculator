@@ -40,7 +40,7 @@ Supports basic arithmetic operations, including addition, ubtraction, multiplica
 
 1. Clone the repository.
   ```sh
-  https://github.com/SazidRahman226/Calculator
+  git clone https://github.com/SazidRahman226/Calculator
   ```
 2. Run Calculator.exe.
 
