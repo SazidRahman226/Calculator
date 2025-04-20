@@ -43,5 +43,6 @@ Supports basic arithmetic operations, including addition, ubtraction, multiplica
   https://github.com/SazidRahman226/Calculator
   ```
 2. Run Calculator.exe.
-<b><i>Note:</i></b> <i>You must have .NET Runtime installed on your windows. <\i>
+
+<b><i>Note:</i></b> <i>You must have .NET Runtime installed on your windows. </i>
 
